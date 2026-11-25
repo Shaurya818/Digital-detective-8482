@@ -1,0 +1,2 @@
+First line: practising the Terminal.
+Second line: the first line is still here.
